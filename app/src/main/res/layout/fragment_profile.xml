@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".ProfileFragment">
+
+    <!-- TODO: Update blank fragment layout -->
+    <ImageView
+        android:id="@+id/imgProfile"
+        android:layout_width="150dp"
+        android:layout_height="150dp"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="150dp"
+        android:src="@drawable/ic_profile" />
+
+    <TextView
+        android:id="@+id/txtProfile"
+        android:layout_width="300dp"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/imgProfile"
+        android:background="@color/purple_500"
+        android:layout_centerHorizontal="true"
+        android:padding="10dp"
+        android:text="Swastica"
+        android:textAlignment="center"
+        android:textColor="#ffffff"
+        android:textSize="20sp"
+        android:textStyle="bold" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/txtProfile"
+        android:layout_marginTop="20dp"
+        android:layout_centerHorizontal="true"
+        android:text="Hi! Welcome to the profile page"
+        android:textColor="@color/purple_500"
+        android:textSize="20sp"
+        android:textStyle="bold" />
+
+    
+
+</RelativeLayout>

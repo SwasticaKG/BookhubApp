@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".AboutAppFragment">
+
+    <!-- TODO: Update blank fragment layout -->
+    <TextView
+        android:id="@+id/txtAboutApp"
+        android:layout_width="400dp"
+        android:padding="10dp"
+        android:layout_height="wrap_content"
+        android:layout_centerInParent="true"
+        android:text="The BookHub lies in its user-friendly dashboard, a centralized hub that effortlessly organizes your literary world.Upon entering the app, you'll be greeted by a meticulously curated selection of books, each accompanied by the author's name, the book's title, and user ratings. This streamlined approach ensures that you can quickly browse through the offerings and discover your next literary adventure with ease.
+ But BookHub doesn't stop there—personalization is key.The app features a dedicated favourites section where you can bookmark and revisit your most cherished reads. Whether it's a thrilling mystery or an insightful non-fiction piece etc. BookHub empowers you to build your own literary haven."
+        android:textAlignment="center"
+        android:textSize="19sp"
+        android:textColor="#000000"/>
+
+
+</RelativeLayout>
