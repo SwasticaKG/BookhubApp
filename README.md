@@ -13,7 +13,7 @@ Welcome to BookHub! BookHub is an Android application that helps users to view b
 <img src="https://github.com/SwasticaKG/BookhubApp/blob/main/mainpage.png" width="250" height="480"/>
 
 <h3> Navigation Drawer</h3>
-<img src=https://github.com/SwasticaKG/BookhubApp/blob/main/navigation%20drawer.png width="250" height="480"/>
+<img src="https://github.com/SwasticaKG/BookhubApp/blob/main/navigation%20drawer.png" width="250" height="480"/>
 
 <h3> Favourite Books Page</h3>
 <img src="https://github.com/SwasticaKG/BookhubApp/blob/main/favourites.png" width="250" height="480"/>
